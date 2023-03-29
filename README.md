@@ -3,7 +3,7 @@
 * Email: markburridge1731@gmail.com or markburridgedev@gmail.com
 * LinkedIn: https://www.linkedin.com/in/mark-burridge-2b1ab8183/
 ## Table of contents
-  * [Setup](#set-up)
+  * [Set up](#set-up)
   * [API](#api)
   * [Client](#client)
 # Set up 
