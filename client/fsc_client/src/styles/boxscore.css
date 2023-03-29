@@ -1,0 +1,48 @@
+
+    .tableroot {
+        width: 0%;
+        border-collapse: collapse; 
+        border: "1px solid";
+    }
+
+    .cell {
+        width: 30px;
+        padding: 5px;
+        border: 1px solid;
+        text-align: center; 
+    } 
+
+    .tableRow {
+        height: 20px;
+        border: "1px solid";
+    }
+
+    .paper {
+        margin: '20px';
+        background-color: '#D3D3D3';
+    }
+
+    .tableDiv{
+        padding:'10px'
+    }
+
+    .gridItem{
+        padding: '40px'
+    }
+
+    .MuiTableCell-root {
+        text-align: center !important;
+    }
+
+    .shaded {
+        background-color: #D3D3D3; 
+    }
+
+    .HeaderGrid {
+        background-color: #000c2c !important;
+        color: white;
+    }
+
+    .button{
+        margin:10px !important
+    }
