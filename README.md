@@ -3,10 +3,10 @@
 * Email: markburridge1731@gmail.com or markburridgedev@gmail.com
 * LinkedIn: https://www.linkedin.com/in/mark-burridge-2b1ab8183/
 ## Table of contents
-  * [Setup](#setup)
+  * [Setup](#set-up)
   * [API](#api)
   * [Client](#client)
-# Setup 
+# Set up 
   * From the root directory, run `npm run package:install `. This will install all the necessary dependencies for the project. 
   * Start local mongoDb server and get host url. Example: `mongodb://127.0.0.1:27017`. 
   * cd into the client directory: ` cd client/fsc_client/`. 
@@ -25,6 +25,9 @@ In the termainal that the app was started in, you will be able to see which type
 
 # Client 
 This client was built using `react.js` and lightly styles with `MaterialUi`. 
+
+## Client Endpoints
+
 
 
 
