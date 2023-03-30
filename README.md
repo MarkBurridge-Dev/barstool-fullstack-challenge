@@ -27,6 +27,9 @@ In the termainal that the app was started in, you will be able to see which type
 This client was built using `react.js` and lightly styles with `MaterialUi`. 
 
 ## Client Endpoints
+* `http://localhost:3000`: This is the home endpoint which will ask you to select a feed from the nav bar on the left side of the screen. 
+* `http://localhost:3000/nbaFeed`: NBA feed endpoint which displays the box score for an NBA game.  
+* `http://localhost:3000/mlbFeed`: MLB feed endpoint which displays the box score for an MLB game.
 
 
 
